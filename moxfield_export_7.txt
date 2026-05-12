@@ -1,0 +1,85 @@
+1 Aetherflux Reservoir
+1 Animate Dead
+1 Arcane Signet
+1 Austere Command
+1 Authority of the Consuls
+1 Beseech the Queen
+1 Blood Celebrant
+1 Bojuka Bog
+1 Bolas's Citadel
+1 Cabal Pit
+1 Caves of Koilos
+1 Charming Prince
+1 Cloudshift
+1 Command Tower
+1 Darksteel Mutation
+1 Delney, Streetwise Lookout
+1 Demonic Counsel
+1 Despark
+1 Enduring Innocence
+1 Ephemerate
+1 Escape Tunnel
+1 Evolving Wilds
+1 Fetid Heath
+1 Flicker of Fate
+1 Fracture
+1 Fragmentize
+1 Ghostly Prison
+1 Gilraen, Dúnedain Protector
+1 Godless Shrine
+1 Hall of Heliod's Generosity
+1 Helpful Hunter
+1 Isolated Chapel
+1 Kambal, Consul of Allocation
+1 Keen Duelist
+1 Loran of the Third Path
+1 Mayor Tong of Chin Village
+1 Monologue Tax
+1 Mortify
+1 Obscura Storefront
+1 Orzhov Basilica
+1 Orzhov Signet
+1 Paliano, the High City
+1 Panharmonicon
+1 Parker Luck
+1 Path of Ancestry
+1 Peer into the Abyss
+1 Phyrexian Unlife
+13 Plains
+1 Reanimate
+1 Reave Soul
+1 Reliquary Tower
+1 Reverse the Sands
+1 Revival/Revenge
+1 Rhys, the Evermore
+1 Saw in Half
+1 Sevinne's Reclamation
+1 Silent Clearing
+1 Slip On the Ring
+1 Sol Ring
+1 Solemn Simulacrum
+1 Solemnity
+1 Soul Warden
+1 Soul's Attendant
+1 Spirited Companion
+5 Swamp
+1 Swords to Plowshares
+1 Tainted Sigil
+1 Talisman of Hierarchy
+1 Teleportation Circle
+1 Terramorphic Expanse
+1 The Wind Crystal
+1 Thought Vessel
+1 Touch the Spirit Realm
+1 Toxic Deluge
+1 Tree of Perdition
+1 Ulcerate
+1 Vanquish the Horde
+1 Vesuva
+1 Victimize
+1 Vilis, Broker of Blood
+1 Wake the Reflections
+1 Windbrisk Heights
+1 Wound Reflection
+
+1 Mister Negative

@@ -1,0 +1,58 @@
+keyword,tag_name
+Add * to your mana pool.,mana-production
+add * counter*,counters
+additional cost,additional-cost
+aura,aura
+bottom of * library,bottom-of-library
+counter target,counter-spells
+deathtouch,deathtouch
+defender,defender
+destroy all,wipe
+discard,discard
+double strike,double-strike
+draw \d+ card*,card-draw
+draw a card*,card-draw
+draw step,draw-step
+enchant,enchant
+end of turn,end-step
+end step,end-step
+enters? tapped,enter-tapped
+equipment,equipment
+exile all,wipe
+first strike,first-strike
+flash,flash
+flashback,flashback
+flying,flying
+gain \d+ life,lifegain
+goad,goad
+god,god
+graveyard,graveyard
+haste,haste
+hexproof,hexproof
+indestructible,indestructible
+legendary,legendary
+lifelink,lifelink
+lose \d+ life,lifeloss
+menace,menace
+mill,mill
+protection,protection
+prowess,prowess
+reach,reach
+remove * counter**,-counters
+sacrifice,sacrifice
+scry,scry
+search * library,tutor
+shuffle,shuffle
+surveil,surveil
+token,token
+top of * library,top-of-library
+trample,trample
+upkeep,upkeep
+vigilance,vigilance
+ward,ward
+{e},energy
+{pw},planeswalker
+{q},untap-ability
+{t},tap-ability
+destroy target, single-target-removal
+exile target, single-target-removal

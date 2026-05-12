@@ -1,0 +1,97 @@
+1 Aang's Shelter
+1 Adarkar Wastes
+1 Ancestral Vision
+1 Animate Dead
+1 Arcane Sanctum
+1 Arcane Signet
+1 Archmage's Charm
+1 Austere Command
+1 Azorius Chancery
+1 Bender's Waterskin
+1 Beseech the Mirror
+1 Careful Consideration
+1 Caves of Koilos
+1 Command Tower
+1 Complete the Circuit
+1 Conduit Pylons
+1 Copy Enchantment
+1 Curiosity
+1 Cyclonic Rift
+1 Dark Dabbling
+1 Dark Deal
+1 Deadly Rollick
+1 Deep Analysis
+1 Delney, Streetwise Lookout
+1 Dictate of Kruphix
+1 Dimir Aqueduct
+1 Dismember
+1 Echo of Eons
+1 Eiganjo, Seat of the Empire
+1 Emet-Selch, Unsundered
+1 Enlightened Tutor
+1 Exotic Orchard
+1 Fall of the First Civilization
+1 Fellwar Stone
+1 Fetid Heath
+1 Force of Negation
+1 Godless Shrine
+1 Grand Arbiter Augustin IV
+1 Grim Tutor
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Heliod, the Radiant Dawn
+1 Idyllic Tutor
+1 Inventive Iteration
+5 Island
+1 Kami of Jealous Thirst
+1 Loran of the Third Path
+1 Lotho, Corrupt Shirriff
+1 Lyse Hext
+1 Mirrormade
+1 Mystic Gate
+1 Mystic Remora
+1 Ob Nixilis, the Hate-Twisted
+1 Oblation
+1 Orzhov Basilica
+1 Osgiliath, Fallen Capital
+1 Paliano, the High City
+1 Path of Ancestry
+1 Peer into the Abyss
+1 Plains
+1 Prosperity
+1 Quantum Misalignment
+1 Raffine's Tower
+1 Reanimate
+1 Relic of Legends
+1 Rewind
+1 Sanguine Bond
+1 Scheming Silvertongue
+1 Scrawling Crawler
+1 Secret Rendezvous
+1 Sheoldred, the Apocalypse
+1 Sigil of Sleep
+1 Sink into Stupor
+1 Smothering Tithe
+1 Sokrates, Athenian Teacher
+1 Sol Ring
+1 Stenn, Paranoid Partisan
+1 Stormscape Familiar
+1 Struggle for Project Purity
+1 Sunken Ruins
+1 Tataru Taru
+1 The One Ring
+1 The Reality Chip
+1 Toxic Deluge
+1 Twincast
+1 Underground River
+1 Unstable Harmonics
+1 Unwind
+1 Vanquish the Horde
+1 Watery Grave
+1 Weathered Wayfarer
+1 Wedding Ring
+1 Wheel and Deal
+1 Windbrisk Heights
+1 Windfall
+
+1 Y'shtola, Night's Blessed
